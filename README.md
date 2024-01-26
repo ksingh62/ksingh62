@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://d3frb2mbny706b.cloudfront.net/<your-username-here>" width="600">
+<img src="https://d3frb2mbny706b.cloudfront.net/<ksingh62>" width="600">
 
 <!--
 **ksingh62/ksingh62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
