@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ksingh62"/></a>
-</p>
+
 
 <!--
 **ksingh62/ksingh62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
